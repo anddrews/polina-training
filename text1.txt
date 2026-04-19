@@ -1,2 +1,3 @@
 Hello world
 I added some changes to this file
+I added smth more
